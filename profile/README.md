@@ -1,12 +1,9 @@
 ## Welcome to the Invertase organization 👋
 
-<!--
+[Invertase](https://invertase.io) is an open-source first software development company building developer tooling, SDKs and more!
 
-**Here are some ideas to get you started:**
+You can join in the fun and contribute by checking out our contributing guides on each repository. Everyone is welcome.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+---
+
+[[Careers]](https://invertase.io/careers) . [[Blog]](https://invertase.io/blog) . [[Twitter]](invertaseio)
