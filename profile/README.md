@@ -6,4 +6,4 @@ You can join in the fun and contribute by checking out our contributing guides o
 
 ---
 
-[[Careers]](https://invertase.io/careers) . [[Blog]](https://invertase.io/blog) . [[Twitter]](invertaseio)
+[[Careers]](https://invertase.io/careers) . [[Blog]](https://invertase.io/blog) . [[Twitter]](https://twitter.com/invertaseio)
