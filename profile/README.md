@@ -18,6 +18,7 @@ Curious to see what's new? Here's some of our more recent and ongoing projects:
  - 🔥 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - a collection of Firebase plugins for Flutter apps.
  - ⚒️ [GitHub Action for Dart Analyzer](https://github.com/invertase/github-action-dart-analyzer) - a GitHub action to run Dart analyzer with PR review annotation support.
  - ⚒️ [Dart CLI Utilities](https://github.com/invertase/dart-cli-utilities) - a growing collection of packages that provide useful functionality for building CLI applications in Dart.
+ - 🔥 [Firebase APIs for Dart](https://github.com/invertase/dart_firebase_apis) - generated Dart client libraries for all Firebase APIs available through the Google APIs Discovery service.
 
 #### JavaScript, React & React Native
 
