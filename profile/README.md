@@ -10,7 +10,7 @@ Curious to see what's new? Here's some of our more recent and ongoing projects:
 
 #### Dart & Flutter
 
- - ⚡ [Zapp!](https://zapp.run) - an online Dart & Flutter sandbox in the browser
+ - ⚡ [Zapp!](https://zapp.run) - an online Dart & Flutter sandbox in the browser.
  - 💡 [Custom Lint](https://github.com/invertase/dart_custom_lint) - easily write powerful Dart & Flutter lint rules for your projects or for users of your packages.
  - ✅ [Spec](https://github.com/invertase/spec) - a streamlined testing framework for Dart & Flutter with an interactive CLI (including watch mode).
  - 🌋 [Melos](https://github.com/invertase/melos) - a tool for managing Dart projects with multiple packages (a.k.a monorepos), inspired by Lerna.
