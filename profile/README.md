@@ -4,6 +4,10 @@
 
 You can join in the fun and contribute by checking out our contributing guides on each repository. Everyone is welcome.
 
+ <a href="https://invertase.link/discord">
+   <img src="https://img.shields.io/discord/295953187817521152.svg?style=flat-square&colorA=7289da&label=Chat%20on%20Discord" alt="Chat on Discord">
+ </a>
+
 ### Current Projects
 
 Curious to see what's new? Here's some of our more recent and ongoing projects:
