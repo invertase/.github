@@ -33,6 +33,7 @@ Curious to see what's new? Here's some of our more recent and ongoing projects:
 
 #### JavaScript, React & React Native
 
+ - 🧩 [Firebase Extensions](https://github.com/firebase/extensions) - pre-packaged solutions to extend Firebase functionality.
  - 📘 [docs.page](https://github.com/invertase/docs.page) - create instant Open Source docs with zero configuration for your next Open Source project.
  - 💲 [React Native Google Ads](https://github.com/invertase/react-native-google-mobile-ads) - a React Native package enabling you to monetize your app with Google AdMob.
  - 🔥 [React Native Firebase](https://github.com/invertase/react-native-firebase) - a Firebase implementation for React Native supporting all Firebase services.
