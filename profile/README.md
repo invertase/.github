@@ -11,6 +11,10 @@ You can join in the fun and contribute by checking out our contributing guides o
  </a>
  
  ---
+ 
+### Events
+
+[![f3 event prague](https://static.invertase.io/events/f3-2023-readme.png)](https://f3.events)
 
 ### Current Projects
 
@@ -31,8 +35,9 @@ Curious to see what's new? Here's some of our more recent and ongoing projects:
  - ⚒️ [Dart CLI Utilities](https://github.com/invertase/dart-cli-utilities) - a growing collection of packages that provide useful functionality for building CLI applications in Dart.
  - 🔥 [Firebase APIs for Dart](https://github.com/invertase/dart_firebase_apis) - generated Dart client libraries for all Firebase APIs available through the Google APIs Discovery service.
 
-#### JavaScript, React & React Native
+#### JavaScript, React, React Native & Other
 
+ - 🐍 [Firebase Functions Python](https://github.com/firebase/firebase-functions-python) - the official SDK for defining Cloud Functions for Firebase in Python.
  - 🧩 [Firebase Extensions](https://github.com/firebase/extensions) - pre-packaged solutions to extend Firebase functionality.
  - 📘 [docs.page](https://github.com/invertase/docs.page) - create instant Open Source docs with zero configuration for your next Open Source project.
  - 💲 [React Native Google Ads](https://github.com/invertase/react-native-google-mobile-ads) - a React Native package enabling you to monetize your app with Google AdMob.
