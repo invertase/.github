@@ -37,6 +37,7 @@ Curious to see what's new? Here's some of our more recent and ongoing projects:
 
 #### JavaScript, React, React Native & Other
 
+ - 💳 [Stripe Firebase Extensions](https://github.com/invertase/stripe-firebase-extensions) - run Stripe payments in your app via Firebase Extensions.
  - 🐍 [Firebase Functions Python](https://github.com/firebase/firebase-functions-python) - the official SDK for defining Cloud Functions for Firebase in Python.
  - 🧩 [Firebase Extensions](https://github.com/firebase/extensions) - pre-packaged solutions to extend Firebase functionality.
  - 📘 [docs.page](https://github.com/invertase/docs.page) - create instant Open Source docs with zero configuration for your next Open Source project.
