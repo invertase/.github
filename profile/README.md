@@ -18,10 +18,11 @@ You can join in the fun and contribute by checking out our contributing guides o
 
 ### Current Projects
 
-Curious to see what's new? Here's some of our more recent and ongoing projects:
+Curious to see what's new? Here are some of our more recent and ongoing projects:
 
 #### Dart & Flutter
 
+ - 🔥 [Dart Firebase Admin SDK](https://github.com/invertase/dart_firebase_admin) - a Firebase Admin SDK for Dart.
  - ⚡ [Zapp!](https://zapp.run) - an online Dart & Flutter sandbox in the browser.
  - 🌎 [Dart Edge](https://github.com/invertase/dart_edge) - run Dart code on Edge Functions.
  - 💡 [Custom Lint](https://github.com/invertase/dart_custom_lint) - easily write powerful Dart & Flutter lint rules for your projects or for users of your packages.
