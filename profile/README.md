@@ -11,10 +11,6 @@ You can join in the fun and contribute by checking out our contributing guides o
  </a>
  
  ---
- 
-### Events
-
-[![f3 event prague](https://static.invertase.io/events/f3-2023-readme2.png)](https://f3.events)
 
 ### Current Projects
 
