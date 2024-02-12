@@ -10,7 +10,7 @@ You can join in the fun and contribute by checking out our contributing guides o
 ### Current Projects
 
 ---
-##  📣  Globe is now in public preview! Be sure to try it out at [globe.dev](https://globe/dev).
+##  📣  Globe is now in public preview! Be sure to try it out at [globe.dev](https://globe.dev).
 ---
 
 Curious to see what's new? Here are some of our more recent and ongoing projects:
