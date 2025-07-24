@@ -3,5 +3,5 @@
   "description": "Basic CI workflow for Dart projects",
   "iconName": "example-icon",
   "categories": ["Dart"],
-  "filePatterns": [".+\\.dart$", ".*pubspec.yaml$"]
+  "filePatterns": ["pubspec.yaml"]
 }
