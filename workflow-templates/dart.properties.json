@@ -1,0 +1,13 @@
+{
+  "name": "Dart CI",
+  "description": "Basic CI workflow for Dart projects",
+  "iconName": "example-icon",
+  "categories": [
+      "Dart"
+  ],
+  "filePatterns": [
+      "package.json$",
+      "^Dockerfile",
+      ".*\\.md$"
+  ]
+}
